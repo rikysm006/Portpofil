@@ -1,0 +1,1 @@
+Sistemes operatius monolloc
